@@ -6,12 +6,12 @@
 
 ---
 
-![alt text](Таблица material.jpg "Таблица material")
+![alt text](material.jpg "Таблица material")
 
 ---
 
-![alt text](Таблица product.jpg "Таблица product")
+![alt text](product.jpg "Таблица product")
 
 ---
 
-![alt text](Таблица productmaterial.jpg "Таблица productmaterial")
+![alt text](productmaterial.jpg "Таблица productmaterial")
